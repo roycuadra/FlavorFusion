@@ -7996,10 +7996,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #fd5f00; }
+  color: #007bff; }
   a:hover, a:focus {
     text-decoration: none;
-    color: #fd5f00;
+    color:#007bff;
     outline: none !important; }
 
 h1, h2, h3, h4, h5,
@@ -8194,7 +8194,7 @@ h1, h2, h3, h4, h5,
   font-weight: 900;
   position: relative; }
   .navbar-brand span {
-    color: #ffd615; }
+    color:#007bff; }
   .navbar-brand:hover, .navbar-brand:focus {
     color: #000000 !important; }
 
@@ -8268,7 +8268,7 @@ h1, h2, h3, h4, h5,
               width: 100%; } }
         .owl-carousel.home-slider .slider-item .slider-text .text {
           width: 34%;
-          background: #ffd615;
+          background: #007bff;
           height: 680px;
           z-index: 1; }
           .owl-carousel.home-slider .slider-item .slider-text .text .text-2 {
@@ -8970,7 +8970,7 @@ textarea.form-control {
       width: 10px;
       height: 10px;
       content: '';
-      background: #ffd615; }
+      background:#007bff; }
   @media (max-width: 767.98px) {
     .heading-section h2 {
       font-size: 28px; } }
